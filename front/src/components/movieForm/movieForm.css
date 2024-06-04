@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  gap: 2rem;
+  height: 50vh;
+}
+
+input,
+textarea {
+  width: 15rem;
+  height: 1.5rem;
+}
+
+textarea {
+  height: 3rem;
+}

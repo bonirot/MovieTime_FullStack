@@ -1,0 +1,58 @@
+header {
+  box-shadow: 0px 0px 5px 1px black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.05rem solid #beb0f9;
+  padding: 0.3rem;
+  position: fixed;
+  width: 100%;
+  margin: 0;
+  top: 0;
+  z-index: 2;
+  background-color: #301b8b;
+}
+
+.headerName {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerLogo,
+.headerUser_avatar {
+  width: 4rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.headerUser_avatar {
+  border-radius: 50%;
+  width: 3rem;
+}
+
+.headerTitle {
+  font-weight: 600;
+}
+
+.headerTtileLink {
+  text-decoration: none;
+  color: white;
+}
+
+.headerUser {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem;
+}
+
+.headerUser_name {
+  margin: 0.2rem;
+}
+
+.headerLogout {
+  width: 1.5rem;
+  background: none;
+  padding-left: 0.5rem;
+  padding-right: 1rem;
+}

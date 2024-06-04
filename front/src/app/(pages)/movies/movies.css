@@ -1,0 +1,21 @@
+.moviesContainer {
+  top: 0;
+}
+
+.moviesContainer_title {
+  padding-top: 5rem;
+}
+
+.cardsBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+.moviesContainer_formLink {
+  padding-bottom: 2rem;
+}
