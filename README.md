@@ -1,5 +1,7 @@
 `#react` `#express` `#typescript` `#postgres` `#prisma` `#cloudinary` `#backend` `#assembler-institute-of-technology` `#master-in-software-engineering` `#node.js` `#next.js` `#zod` `#react-hook-form`
 
+> DISCLAIMER: This repository has very few commits because it is a combination of two other projects (front and back) that I have worked on separately.
+
 # Movie Time! 🍿
 
 ![MovieTime](./assets/movietime-screenshot.png)
