@@ -88,9 +88,9 @@ Run shell and introduce:
 
 ### cloudinary
 
-npm i cloudinary
-npm i express-fileupload
-npm i -D @types/express-fileupload
-npm i fs-extra
-npm i -D @types/fs-extra
-npm i body-parser
+- npm i cloudinary
+- npm i express-fileupload
+- npm i -D @types/express-fileupload
+- npm i fs-extra
+- npm i -D @types/fs-extra
+- npm i body-parser
