@@ -4,7 +4,7 @@
 
 # Movie Time! 🍿
 
-![MovieTime](./assets/movietime-screenshot.png)
+![MovieTime](./assets/movietime-screen.png)
 
 This is an application to keep track of the movies you are watching and rate them.
 
