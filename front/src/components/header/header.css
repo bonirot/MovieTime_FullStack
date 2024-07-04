@@ -3,14 +3,14 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 0.05rem solid #beb0f9;
+  border-bottom: 0.05rem solid #ff9ca2;
   padding: 0.3rem;
   position: fixed;
   width: 100%;
   margin: 0;
   top: 0;
   z-index: 2;
-  background-color: #301b8b;
+  background-color: #3d0004;
 }
 
 .headerName {

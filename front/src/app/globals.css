@@ -10,18 +10,22 @@ body {
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-image: linear-gradient(to bottom right, #301b8b, #a487ff);
+  background-image: linear-gradient(to bottom right, #3f0004, #e90010);
 
   text-align: center;
   --first-color: #ffffff;
-  --second-color: #646cff;
-  --third-color: #2d1e58;
-  --fourth-color: #a487ff;
+  --second-color: #e90010;
+  --third-color: #3f0004;
+  --fourth-color: #95000a;
 }
 
 h2 {
   padding-top: 2rem;
   margin: 0;
+}
+
+a {
+  color: white;
 }
 
 button {
